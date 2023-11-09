@@ -25,5 +25,3 @@
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-
-![image](https://github.com/sayidrahmatulloh/sayidrahmatulloh/assets/135050230/b2b675be-ba3a-42a8-91f6-2b4daabe5c01)
